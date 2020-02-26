@@ -1,5 +1,14 @@
 # openpicks
 
+This is a clojure version of the app that I wrote to manage our Football pool at work.
+
+General Rules:
+* All picks for the week must be made by kickoff of the first game.
+* Tie breaker is the point difference between the game of the week (usually Monday night football)
+* Determines weekly pool winners, as well as the winners for the season.
+
+
+
 generated using Luminus version "3.57"
 
 FIXME
@@ -18,4 +27,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Darren Fix
